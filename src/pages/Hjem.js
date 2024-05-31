@@ -1,7 +1,6 @@
 import React from 'react'
 import { Outlet, Link } from "react-router-dom";
 import forside from "../components/assets/forside.png"
-import { Button } from '@mui/material';
 
 export default function Hjem() {
   return (
@@ -12,7 +11,7 @@ export default function Hjem() {
         backgroundRepeat: 'no-repeat',
         width: '100vw',
         height: '100vh'}}
-    >
+    > 
       {/* Hvis du skal lage navbar så må den være hær */}
       <nav style={{
         display: "flex", 
