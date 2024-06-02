@@ -42,8 +42,11 @@ export default function Om() {
           fontSize: "1.5vw",
           width: "40rem",
         }}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
+Nabohjelpen: Nettstedet hvor naboer møtes for å dele og hjelpe
+
+På Nabohjelpen bringer vi naboer sammen for å gjøre livet litt lettere og samfunnet litt sterkere. Her kan du dele eller etterspørre hjelp med alt fra enkle hjemmeprosjekter til utlån av verktøy. Vi tror på kraften i lokalsamfunnet og ønsker å fremme et miljø der naboer ikke bare kjenner hverandre, men også støtter hverandre.
+
+Del dine historier med oss - hvor naboer knyttes sammen for å låne en hjelpende hånd eller verktøy. Fortell oss gjerne om din reise, inspirasjoner eller det nabolaget du har bygget.        </p>
       </div>
     </div>
   </div>

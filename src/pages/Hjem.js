@@ -12,7 +12,7 @@ export default function Hjem() {
         width: '100vw',
         height: '100vh'}}
     > 
-      {/* Hvis du skal lage navbar så må den være hær */}
+      
       <nav style={{
         display: "flex", 
         Direction: "row"
